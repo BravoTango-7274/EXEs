@@ -1,3 +1,5 @@
+; This is the source code for Free_wifi.exe
+
 #NoEnv
 #Warn
 SendMode Input
